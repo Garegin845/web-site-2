@@ -28,6 +28,6 @@ href="./img/logo.png">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d18578.317285899244!2d43.83082120621528!3d40.7794564367874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4041fbf52c9e0279%3A0x98282e1362957c91!2sTumo%20Gyumri!5e1!3m2!1sen!2sam!4v1706462715248!5m2!1sen!2sam" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <button class="ok" type="button" onclick="closeMap()" >Ok</button>
  </div>
- <li><a href="home.php">Հիմնական էջ</a></li>
+ <li><a href="index.php">Հիմնական էջ</a></li>
   
  
